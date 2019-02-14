@@ -1,6 +1,7 @@
 # vuejs-calendar
 
-- [Demonstration on Youtube](https://youtu.be/ArAaWaTQrgQ)
+- [Demonstration on Youtube (UI Design)](https://youtu.be/ArAaWaTQrgQ)
+- [Demonstration on Youtube (Usability)](https://youtu.be/aremw7qlJYk)
 
 
 ## Project setup
