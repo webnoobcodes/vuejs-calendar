@@ -64,7 +64,7 @@
     computed: {
       prevMonthDays() {
         let year = this.currentDate.month === 0 ? this.currentDate.year - 1 : this.currentDate.year;
-        let month = this.currentDate.month === 0 ? 11 : this.currentDate.month;
+        let month = this.currentDate.month === 0 ? 12 : this.currentDate.month;
         return new Date(year, month, 0).getDate();
       },
       firstMonthDay() {
